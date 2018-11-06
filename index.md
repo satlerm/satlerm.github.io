@@ -1,4 +1,29 @@
 ## Welcome to GitHub Pages
+<!-- This webpage was created -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> My Page Title </title>
+    <link rel="canonical"
+          href="//en.wikipedia.org/wiki/Standup_paddleboarding">
+  </head>
+  <body>
+    <p> <strong> Stand up paddle surfing </strong> and <strong> stand up paddle boarding (SUP) </strong> is an offshoot o
+      surfing that originated in Hawaii. Unlike traditional surfing where the rider sits until a wave comes, stand up paddle
+      boarders stand on their boards and use paddle to propel themselves through the water. The sport was documented in a 2013
+      report that identified it as the outdoor
+      sporting activity with the most first-time participants in the United States that year.[1] Variations include flat water
+      paddling for outdoor recreation, fitness, or sightseeing, racing on lakes, large rivers and canals, surfing on ocean
+      waves, paddling in river rapids (whitewater SUP), url https://en.wikipedia.org/wiki/Paddle_board_yoga Paddle board yoga
+      and even fishing. </p>
+  </body>
+</html>
+  
+
+
+    
 
 You can use the [editor on GitHub](https://github.com/satlerm/satlerm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
