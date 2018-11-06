@@ -36,6 +36,12 @@
       diversify into racing, touring, rivers, yoga, and fishing. Its surfing heritage coupled
       with its various disciplines made the sport attractive and accessible to everyone all
       over the world, paving the way for its global growth and enthusiastic adoption. </p>
+    
+    <p> The text content and photos for this site was lovingly borrowed from  
+    <a href=""//en.wikipedia.org/wiki/Standup_paddleboarding"> the Wikipedia article on Stand Up Paddleboarding</a> on
+    <time>5 November 2018</time> under the <a href="//wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"> Creative Commons Attribution-ShareAlike License. </a> 
+    Licensing terms of content from other
+    sources (photos, etc.) is noted along with each respecitive resource. </p>
 
   </body>
 </html>
