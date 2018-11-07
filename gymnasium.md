@@ -10,7 +10,7 @@
           href="//en.wikipedia.org/wiki/Standup_paddleboarding">
   </head>
   <body>
-    <img src="images/cuttlefish.jpg" alt="paddle board surfing">
+    <img src="pexels-photo-236953.jpeg" alt="paddle board surfing">
     <p> <strong> Stand up paddle surfing </strong> and <strong> stand up paddle boarding (SUP) </strong> is an offshoot o
       surfing that originated in Hawaii. Unlike traditional surfing where the rider sits until a wave comes, stand up paddle
       boarders stand on their boards and use paddle to propel themselves through the water. The sport was documented in a 2013
